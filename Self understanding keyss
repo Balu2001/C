@@ -1,0 +1,9 @@
+#include<iostream>  ?? for reading and writeing opertions
+int main().         ?? main funtion declartion
+
+int d;
+char c,s;           ?? data types integer,float,string,chararter
+float f;
+
+scanf("%d %f %c %s",&d,&f,&c,s);
+printf("%d " " " "            );
